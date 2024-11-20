@@ -1,0 +1,17 @@
+.head{
+    margin-left: 50px;
+    margin-top: 20px;
+    color: antiquewhite;
+
+}
+.add{
+    margin-right: 550px;
+    
+}
+::placeholder{
+    font-size: small;
+}
+body{
+    background: rgba(168, 194, 192, 0.2);
+    backdrop-filter:blur(150px);
+}
